@@ -1,0 +1,10 @@
+{
+  "train_size": 4000,
+  "test_size": 1000,
+  "train_fraud_count": 200,
+  "test_fraud_count": 50,
+  "fraud_rate_train": 0.05,
+  "fraud_rate_test": 0.05,
+  "random_state": 42,
+  "stratified": true
+}

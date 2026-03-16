@@ -1,0 +1,45 @@
+{
+  "thresholds": {
+    "low": {
+      "min": 0.0,
+      "max": 0.3,
+      "action": "allow",
+      "color": "#00ff88"
+    },
+    "medium": {
+      "min": 0.3,
+      "max": 0.6,
+      "action": "flag_review",
+      "color": "#ffb800"
+    },
+    "high": {
+      "min": 0.6,
+      "max": 0.85,
+      "action": "manual_review",
+      "color": "#ff3d5a"
+    },
+    "critical": {
+      "min": 0.85,
+      "max": 1.0,
+      "action": "block",
+      "color": "#ff0066"
+    }
+  },
+  "alert_rules": {
+    "velocity_alert_1h": 5,
+    "velocity_alert_24h": 15,
+    "amount_alert_usd": 10000,
+    "balance_ratio_alert": 0.85,
+    "card_age_alert_days": 90
+  },
+  "model": {
+    "algorithm": "RandomForestClassifier",
+    "n_estimators": 100,
+    "max_depth": 8,
+    "class_weight": {
+      "0": 1,
+      "1": 10
+    },
+    "random_state": 42
+  }
+}

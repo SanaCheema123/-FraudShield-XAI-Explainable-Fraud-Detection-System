@@ -1,0 +1,19 @@
+version: "3.9"
+services:
+  redis:
+    image: redis:7-alpine
+    ports: ["6379:6379"]
+  web:
+    build: .
+    command: daphne -p 8000 core.asgi:application
+    volumes: ["./backend:/app"]
+    ports: ["8000:8000"]
+    env_file: .env
+    depends_on: [redis]
+    working_dir: /app
+  frontend:
+    image: node:18-alpine
+    working_dir: /app
+    volumes: ["./frontend:/app"]
+    command: sh -c "npm install && npm run dev -- --host"
+    ports: ["3000:3000"]

@@ -1,0 +1,201 @@
+merchant_id,merchant_name,category,category_encoded,country,avg_txn_amount,risk_score,is_high_risk,chargeback_rate
+MER-0000,Merchant_0,Crypto Exchange,0,RU,82.52,0.493,0,0.0522
+MER-0001,Merchant_1,Food & Dining,3,US,174.01,0.556,1,0.0212
+MER-0002,Merchant_2,Retail,3,NG,178.13,0.662,0,0.0353
+MER-0003,Merchant_3,Food & Dining,7,NG,139.22,0.272,0,0.0849
+MER-0004,Merchant_4,Utilities,4,CA,259.24,0.715,0,0.066
+MER-0005,Merchant_5,Jewelry,3,RU,6.71,0.97,0,0.0676
+MER-0006,Merchant_6,Retail,8,RU,125.47,0.196,0,0.0647
+MER-0007,Merchant_7,Retail,5,RU,304.8,0.918,0,0.03
+MER-0008,Merchant_8,Retail,0,US,144.46,0.424,0,0.016
+MER-0009,Merchant_9,Food & Dining,6,NG,20.26,0.916,0,0.0651
+MER-0010,Merchant_10,Gas,9,RU,122.6,0.419,0,0.0404
+MER-0011,Merchant_11,Food & Dining,7,RU,158.96,0.714,0,0.0463
+MER-0012,Merchant_12,Entertainment,3,AU,68.69,0.558,0,0.0159
+MER-0013,Merchant_13,Crypto Exchange,2,US,284.37,0.75,0,0.1165
+MER-0014,Merchant_14,Food & Dining,0,RU,34.06,0.701,0,0.0093
+MER-0015,Merchant_15,Education,7,UK,75.8,0.959,0,0.1054
+MER-0016,Merchant_16,Education,9,AU,360.68,0.289,0,0.0948
+MER-0017,Merchant_17,Gas,8,NG,49.95,0.93,0,0.0068
+MER-0018,Merchant_18,Food & Dining,9,NG,55.13,0.252,0,0.1243
+MER-0019,Merchant_19,Retail,9,NG,28.29,0.786,0,0.0862
+MER-0020,Merchant_20,Retail,0,CA,45.02,0.49,1,0.1079
+MER-0021,Merchant_21,Healthcare,9,VN,56.93,0.072,1,0.0879
+MER-0022,Merchant_22,Healthcare,8,CA,83.31,0.035,1,0.0365
+MER-0023,Merchant_23,Food & Dining,9,UK,156.3,0.52,0,0.0456
+MER-0024,Merchant_24,Education,3,UK,443.25,0.035,0,0.1496
+MER-0025,Merchant_25,Food & Dining,4,VN,101.9,0.946,0,0.1211
+MER-0026,Merchant_26,Utilities,4,AU,214.31,0.165,0,0.1257
+MER-0027,Merchant_27,Travel,5,UK,67.48,0.485,1,0.0388
+MER-0028,Merchant_28,Food & Dining,1,AU,92.68,0.377,0,0.1173
+MER-0029,Merchant_29,Education,1,RU,51.03,0.525,0,0.0515
+MER-0030,Merchant_30,Crypto Exchange,4,US,62.25,0.208,0,0.0494
+MER-0031,Merchant_31,Retail,4,CA,89.26,0.866,1,0.0471
+MER-0032,Merchant_32,Healthcare,0,RU,75.19,0.013,0,0.0163
+MER-0033,Merchant_33,Crypto Exchange,8,NG,62.16,0.572,0,0.0156
+MER-0034,Merchant_34,Education,1,AU,17.34,0.347,0,0.1039
+MER-0035,Merchant_35,Gas,6,UK,136.94,0.214,0,0.076
+MER-0036,Merchant_36,Travel,1,US,63.73,0.214,0,0.1216
+MER-0037,Merchant_37,Utilities,7,UK,66.71,0.184,0,0.1176
+MER-0038,Merchant_38,Retail,5,NG,103.17,0.603,0,0.0515
+MER-0039,Merchant_39,Education,7,US,221.78,0.891,0,0.02
+MER-0040,Merchant_40,Retail,9,UK,29.59,0.398,0,0.0417
+MER-0041,Merchant_41,Utilities,6,AU,69.21,0.165,0,0.0819
+MER-0042,Merchant_42,Gas,6,RU,3.1,0.053,0,0.1201
+MER-0043,Merchant_43,Education,7,UK,159.59,0.819,0,0.0669
+MER-0044,Merchant_44,Retail,8,CA,552.62,0.222,0,0.0891
+MER-0045,Merchant_45,Gas,7,VN,262.93,0.735,0,0.083
+MER-0046,Merchant_46,Food & Dining,4,VN,26.33,0.53,0,0.0323
+MER-0047,Merchant_47,Jewelry,2,VN,50.61,0.637,0,0.0659
+MER-0048,Merchant_48,Retail,8,CA,107.73,0.576,0,0.0996
+MER-0049,Merchant_49,Education,7,US,3.77,0.952,0,0.0075
+MER-0050,Merchant_50,Healthcare,5,CA,48.33,0.102,0,0.0902
+MER-0051,Merchant_51,Healthcare,1,UK,86.06,0.658,0,0.1349
+MER-0052,Merchant_52,Education,2,NG,43.88,0.115,0,0.1371
+MER-0053,Merchant_53,Education,0,CA,346.57,0.194,0,0.1277
+MER-0054,Merchant_54,Crypto Exchange,6,AU,28.64,0.674,0,0.033
+MER-0055,Merchant_55,Gas,7,UK,39.35,0.619,1,0.1288
+MER-0056,Merchant_56,Entertainment,9,VN,726.99,0.486,0,0.0167
+MER-0057,Merchant_57,Jewelry,6,CA,628.56,0.773,0,0.0484
+MER-0058,Merchant_58,Gas,9,RU,825.23,0.692,0,0.0596
+MER-0059,Merchant_59,Retail,6,US,37.07,0.059,0,0.0309
+MER-0060,Merchant_60,Entertainment,4,VN,69.55,0.654,0,0.1311
+MER-0061,Merchant_61,Gas,8,NG,12.11,0.387,0,0.1104
+MER-0062,Merchant_62,Gas,1,NG,37.85,0.471,0,0.1071
+MER-0063,Merchant_63,Entertainment,4,NG,172.68,0.523,0,0.1391
+MER-0064,Merchant_64,Gas,7,NG,55.77,0.335,0,0.1142
+MER-0065,Merchant_65,Travel,7,AU,394.77,0.448,0,0.0642
+MER-0066,Merchant_66,Travel,9,CA,95.96,0.561,0,0.02
+MER-0067,Merchant_67,Jewelry,8,NG,84.93,0.059,0,0.1242
+MER-0068,Merchant_68,Utilities,1,AU,31.23,0.573,0,0.107
+MER-0069,Merchant_69,Education,7,AU,223.58,0.348,0,0.0908
+MER-0070,Merchant_70,Food & Dining,5,NG,29.25,0.573,0,0.1118
+MER-0071,Merchant_71,Jewelry,2,RU,154.46,0.445,0,0.1132
+MER-0072,Merchant_72,Retail,6,NG,94.8,0.183,1,0.1114
+MER-0073,Merchant_73,Retail,1,AU,149.39,0.109,0,0.0681
+MER-0074,Merchant_74,Gas,1,AU,513.52,0.875,0,0.0802
+MER-0075,Merchant_75,Travel,9,US,426.75,0.395,0,0.1205
+MER-0076,Merchant_76,Jewelry,1,AU,89.71,0.616,1,0.1394
+MER-0077,Merchant_77,Utilities,2,VN,148.1,0.085,0,0.0774
+MER-0078,Merchant_78,Crypto Exchange,6,US,411.67,0.411,0,0.104
+MER-0079,Merchant_79,Utilities,1,RU,28.11,0.707,0,0.0761
+MER-0080,Merchant_80,Crypto Exchange,5,UK,188.07,0.969,0,0.0625
+MER-0081,Merchant_81,Crypto Exchange,7,UK,297.23,0.555,0,0.1171
+MER-0082,Merchant_82,Retail,7,US,251.75,0.175,0,0.0222
+MER-0083,Merchant_83,Retail,3,UK,330.71,0.013,0,0.0667
+MER-0084,Merchant_84,Utilities,4,AU,153.65,0.354,0,0.0883
+MER-0085,Merchant_85,Jewelry,1,VN,51.34,0.406,0,0.1062
+MER-0086,Merchant_86,Food & Dining,0,AU,17.34,0.498,0,0.1326
+MER-0087,Merchant_87,Utilities,4,NG,606.46,0.004,0,0.0242
+MER-0088,Merchant_88,Gas,9,CA,275.96,0.724,0,0.0621
+MER-0089,Merchant_89,Food & Dining,8,NG,152.47,0.655,0,0.0341
+MER-0090,Merchant_90,Retail,3,NG,55.89,0.018,0,0.0822
+MER-0091,Merchant_91,Utilities,0,CA,254.37,0.334,0,0.0307
+MER-0092,Merchant_92,Retail,0,US,64.06,0.368,0,0.036
+MER-0093,Merchant_93,Food & Dining,9,AU,56.29,0.284,0,0.0182
+MER-0094,Merchant_94,Healthcare,3,CA,141.64,0.296,1,0.0847
+MER-0095,Merchant_95,Travel,1,RU,1693.42,0.434,0,0.1201
+MER-0096,Merchant_96,Healthcare,3,AU,8.87,0.702,0,0.0188
+MER-0097,Merchant_97,Gas,2,VN,84.15,0.676,0,0.119
+MER-0098,Merchant_98,Healthcare,2,US,69.46,0.41,0,0.1448
+MER-0099,Merchant_99,Travel,2,UK,51.8,0.621,0,0.0717
+MER-0100,Merchant_100,Food & Dining,0,NG,282.28,0.07,0,0.0802
+MER-0101,Merchant_101,Healthcare,6,NG,543.41,0.769,0,0.1143
+MER-0102,Merchant_102,Retail,4,AU,270.18,0.442,0,0.1127
+MER-0103,Merchant_103,Education,6,CA,36.49,0.09,0,0.0162
+MER-0104,Merchant_104,Entertainment,2,UK,195.89,0.374,0,0.1242
+MER-0105,Merchant_105,Healthcare,8,RU,196.02,0.708,0,0.0164
+MER-0106,Merchant_106,Jewelry,0,AU,65.41,0.123,0,0.0849
+MER-0107,Merchant_107,Healthcare,4,VN,92.06,0.815,0,0.0754
+MER-0108,Merchant_108,Crypto Exchange,8,RU,521.3,0.708,0,0.1241
+MER-0109,Merchant_109,Travel,1,NG,8.8,0.083,0,0.0203
+MER-0110,Merchant_110,Gas,8,AU,784.54,0.979,0,0.0967
+MER-0111,Merchant_111,Gas,9,AU,44.9,0.944,0,0.1342
+MER-0112,Merchant_112,Retail,6,NG,79.7,0.132,1,0.0828
+MER-0113,Merchant_113,Gas,6,UK,83.4,0.203,0,0.1299
+MER-0114,Merchant_114,Jewelry,3,AU,47.71,0.347,0,0.1325
+MER-0115,Merchant_115,Healthcare,2,RU,36.48,0.99,0,0.0379
+MER-0116,Merchant_116,Healthcare,5,CA,99.7,0.705,0,0.132
+MER-0117,Merchant_117,Crypto Exchange,0,CA,12.74,0.915,0,0.1023
+MER-0118,Merchant_118,Gas,2,US,64.56,0.276,0,0.1291
+MER-0119,Merchant_119,Retail,8,US,226.4,0.87,0,0.0397
+MER-0120,Merchant_120,Food & Dining,3,US,91.27,0.11,0,0.0568
+MER-0121,Merchant_121,Jewelry,4,VN,58.47,0.995,0,0.0904
+MER-0122,Merchant_122,Education,5,CA,126.67,0.107,1,0.1131
+MER-0123,Merchant_123,Crypto Exchange,7,UK,440.9,0.436,0,0.1474
+MER-0124,Merchant_124,Travel,2,AU,334.78,0.82,0,0.0103
+MER-0125,Merchant_125,Education,8,CA,15.27,0.851,0,0.0813
+MER-0126,Merchant_126,Jewelry,7,US,250.53,0.863,1,0.0822
+MER-0127,Merchant_127,Utilities,8,US,105.06,0.287,0,0.1359
+MER-0128,Merchant_128,Jewelry,4,VN,31.65,0.66,0,0.0354
+MER-0129,Merchant_129,Utilities,6,AU,71.7,0.21,0,0.0239
+MER-0130,Merchant_130,Retail,5,US,76.05,0.494,0,0.0724
+MER-0131,Merchant_131,Jewelry,1,RU,38.77,0.848,0,0.1089
+MER-0132,Merchant_132,Entertainment,2,NG,312.05,0.41,1,0.1458
+MER-0133,Merchant_133,Food & Dining,5,UK,657.94,0.11,0,0.0858
+MER-0134,Merchant_134,Crypto Exchange,7,NG,43.94,0.024,0,0.1088
+MER-0135,Merchant_135,Jewelry,2,CA,31.13,0.9,1,0.0418
+MER-0136,Merchant_136,Crypto Exchange,0,AU,92.35,0.123,1,0.1015
+MER-0137,Merchant_137,Healthcare,9,UK,316.39,0.876,0,0.0364
+MER-0138,Merchant_138,Food & Dining,5,RU,8.22,0.094,0,0.0743
+MER-0139,Merchant_139,Jewelry,8,VN,97.3,0.242,0,0.007
+MER-0140,Merchant_140,Utilities,2,UK,208.86,0.728,0,0.0485
+MER-0141,Merchant_141,Utilities,8,NG,53.96,0.175,1,0.1173
+MER-0142,Merchant_142,Retail,2,RU,167.43,0.883,0,0.0102
+MER-0143,Merchant_143,Healthcare,1,RU,81.88,0.225,0,0.0478
+MER-0144,Merchant_144,Entertainment,2,US,217.69,0.368,1,0.0256
+MER-0145,Merchant_145,Healthcare,3,RU,391.97,0.867,0,0.0941
+MER-0146,Merchant_146,Utilities,5,RU,125.91,0.343,1,0.1116
+MER-0147,Merchant_147,Education,8,CA,243.96,0.589,0,0.0165
+MER-0148,Merchant_148,Utilities,1,US,9.8,0.324,0,0.0784
+MER-0149,Merchant_149,Entertainment,8,UK,25.02,0.479,0,0.1022
+MER-0150,Merchant_150,Retail,8,RU,83.6,0.47,0,0.1485
+MER-0151,Merchant_151,Utilities,9,US,22.77,0.476,0,0.0327
+MER-0152,Merchant_152,Retail,7,CA,53.83,0.367,0,0.011
+MER-0153,Merchant_153,Education,5,UK,135.76,0.723,0,0.0387
+MER-0154,Merchant_154,Retail,4,VN,84.57,0.343,1,0.0841
+MER-0155,Merchant_155,Crypto Exchange,1,US,175.1,0.136,0,0.095
+MER-0156,Merchant_156,Food & Dining,4,AU,319.75,0.597,0,0.0568
+MER-0157,Merchant_157,Travel,6,US,174.41,0.278,1,0.0651
+MER-0158,Merchant_158,Travel,1,AU,95.97,0.039,0,0.0822
+MER-0159,Merchant_159,Crypto Exchange,1,NG,46.71,0.045,0,0.0233
+MER-0160,Merchant_160,Utilities,5,CA,483.0,0.488,0,0.1443
+MER-0161,Merchant_161,Jewelry,5,AU,98.09,0.968,0,0.101
+MER-0162,Merchant_162,Food & Dining,0,VN,10.45,0.078,0,0.0782
+MER-0163,Merchant_163,Healthcare,2,RU,265.41,0.331,0,0.1098
+MER-0164,Merchant_164,Education,1,CA,180.74,0.039,1,0.0149
+MER-0165,Merchant_165,Gas,5,NG,101.91,0.631,1,0.118
+MER-0166,Merchant_166,Education,0,US,136.16,0.578,0,0.0289
+MER-0167,Merchant_167,Education,3,US,33.24,0.283,0,0.012
+MER-0168,Merchant_168,Education,3,RU,52.02,0.76,1,0.1327
+MER-0169,Merchant_169,Entertainment,0,AU,48.62,0.029,0,0.1054
+MER-0170,Merchant_170,Utilities,7,NG,509.65,0.126,0,0.0057
+MER-0171,Merchant_171,Education,6,RU,51.21,0.058,0,0.1397
+MER-0172,Merchant_172,Retail,8,US,28.16,0.338,0,0.1497
+MER-0173,Merchant_173,Utilities,9,RU,147.46,0.505,0,0.0928
+MER-0174,Merchant_174,Retail,2,UK,13.95,0.29,0,0.022
+MER-0175,Merchant_175,Education,6,VN,57.92,0.315,1,0.0774
+MER-0176,Merchant_176,Food & Dining,3,NG,194.95,0.574,0,0.1016
+MER-0177,Merchant_177,Healthcare,2,UK,66.49,0.241,0,0.0278
+MER-0178,Merchant_178,Retail,2,UK,40.6,0.277,0,0.0581
+MER-0179,Merchant_179,Utilities,3,NG,17.64,0.901,0,0.0163
+MER-0180,Merchant_180,Retail,1,US,35.31,0.727,0,0.0871
+MER-0181,Merchant_181,Crypto Exchange,6,NG,93.53,0.505,0,0.0515
+MER-0182,Merchant_182,Utilities,0,US,80.7,0.704,0,0.0529
+MER-0183,Merchant_183,Gas,5,VN,295.56,0.441,0,0.069
+MER-0184,Merchant_184,Entertainment,5,CA,58.67,0.912,0,0.0379
+MER-0185,Merchant_185,Travel,2,UK,6.29,0.176,0,0.0925
+MER-0186,Merchant_186,Retail,1,AU,301.55,0.171,0,0.1007
+MER-0187,Merchant_187,Utilities,8,RU,601.72,0.059,0,0.0377
+MER-0188,Merchant_188,Food & Dining,1,NG,11.25,0.18,0,0.1156
+MER-0189,Merchant_189,Entertainment,0,AU,205.45,0.22,0,0.008
+MER-0190,Merchant_190,Entertainment,2,CA,761.64,0.861,0,0.1038
+MER-0191,Merchant_191,Gas,3,CA,44.45,0.509,0,0.0652
+MER-0192,Merchant_192,Food & Dining,6,VN,149.62,0.206,1,0.0933
+MER-0193,Merchant_193,Travel,9,UK,160.96,0.852,0,0.0597
+MER-0194,Merchant_194,Retail,3,AU,66.71,0.076,0,0.0567
+MER-0195,Merchant_195,Utilities,6,CA,667.76,0.284,0,0.0216
+MER-0196,Merchant_196,Gas,8,UK,30.08,0.939,0,0.1069
+MER-0197,Merchant_197,Food & Dining,8,NG,2246.74,0.968,1,0.045
+MER-0198,Merchant_198,Food & Dining,8,RU,1600.78,0.37,0,0.0645
+MER-0199,Merchant_199,Retail,3,VN,118.73,0.805,0,0.1137

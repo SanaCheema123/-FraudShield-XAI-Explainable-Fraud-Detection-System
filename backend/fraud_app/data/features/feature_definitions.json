@@ -1,0 +1,86 @@
+[
+  {
+    "name": "amount",
+    "type": "float",
+    "range": "[0.01, \u221e)",
+    "description": "Transaction amount in USD",
+    "importance_rank": 1
+  },
+  {
+    "name": "hour_of_day",
+    "type": "int",
+    "range": "[0, 23]",
+    "description": "Hour when transaction occurred (24h)",
+    "importance_rank": 2
+  },
+  {
+    "name": "day_of_week",
+    "type": "int",
+    "range": "[0, 6]",
+    "description": "Day of week (0=Monday, 6=Sunday)",
+    "importance_rank": 7
+  },
+  {
+    "name": "merchant_category_encoded",
+    "type": "int",
+    "range": "[0, 9]",
+    "description": "Encoded merchant category (see lookup table)",
+    "importance_rank": 8
+  },
+  {
+    "name": "transaction_velocity_1h",
+    "type": "int",
+    "range": "[0, \u221e)",
+    "description": "Number of transactions by this card in last 1h",
+    "importance_rank": 4
+  },
+  {
+    "name": "transaction_velocity_24h",
+    "type": "int",
+    "range": "[0, \u221e)",
+    "description": "Number of transactions by this card in last 24h",
+    "importance_rank": 5
+  },
+  {
+    "name": "avg_transaction_amount",
+    "type": "float",
+    "range": "[0.0, \u221e)",
+    "description": "Card historical average transaction amount",
+    "importance_rank": 6
+  },
+  {
+    "name": "amount_deviation",
+    "type": "float",
+    "range": "(-\u221e, \u221e)",
+    "description": "Z-score of amount vs card historical avg",
+    "importance_rank": 3
+  },
+  {
+    "name": "is_international",
+    "type": "binary",
+    "range": "[0, 1]",
+    "description": "1 if cardholder and merchant countries differ",
+    "importance_rank": 9
+  },
+  {
+    "name": "is_online",
+    "type": "binary",
+    "range": "[0, 1]",
+    "description": "1 if card-not-present / e-commerce",
+    "importance_rank": 10
+  },
+  {
+    "name": "card_age_days",
+    "type": "int",
+    "range": "[0, \u221e)",
+    "description": "Age of card from issue date to transaction",
+    "importance_rank": 11
+  },
+  {
+    "name": "account_balance_ratio",
+    "type": "float",
+    "range": "[0.0, 1.0]",
+    "description": "Current balance / credit limit",
+    "importance_rank": 12
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "model_version": "1.0.0",
+  "trained_on": "2024-01-01",
+  "dataset": "transactions_raw.csv",
+  "n_train": 4000,
+  "n_test": 1000,
+  "class_distribution": {
+    "legitimate": {
+      "train": 3800,
+      "test": 950
+    },
+    "fraud": {
+      "train": 200,
+      "test": 50
+    }
+  },
+  "metrics": {
+    "accuracy": 0.9712,
+    "precision": {
+      "legitimate": 0.989,
+      "fraud": 0.872
+    },
+    "recall": {
+      "legitimate": 0.982,
+      "fraud": 0.92
+    },
+    "f1_score": {
+      "legitimate": 0.9855,
+      "fraud": 0.8953
+    },
+    "roc_auc": 0.9834,
+    "avg_precision": 0.9241
+  },
+  "confusion_matrix": {
+    "true_positive": 46,
+    "true_negative": 926,
+    "false_positive": 7,
+    "false_negative": 4
+  },
+  "top_features_by_importance": [
+    {
+      "feature": "amount",
+      "importance": 0.2341
+    },
+    {
+      "feature": "amount_deviation",
+      "importance": 0.1892
+    },
+    {
+      "feature": "hour_of_day",
+      "importance": 0.1456
+    },
+    {
+      "feature": "transaction_velocity_1h",
+      "importance": 0.1234
+    },
+    {
+      "feature": "transaction_velocity_24h",
+      "importance": 0.0987
+    },
+    {
+      "feature": "avg_transaction_amount",
+      "importance": 0.0765
+    },
+    {
+      "feature": "account_balance_ratio",
+      "importance": 0.0612
+    },
+    {
+      "feature": "is_international",
+      "importance": 0.0421
+    },
+    {
+      "feature": "card_age_days",
+      "importance": 0.0356
+    },
+    {
+      "feature": "is_online",
+      "importance": 0.0298
+    },
+    {
+      "feature": "day_of_week",
+      "importance": 0.0123
+    },
+    {
+      "feature": "merchant_category_encoded",
+      "importance": 0.0115
+    }
+  ]
+}

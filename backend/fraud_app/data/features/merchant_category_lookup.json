@@ -1,0 +1,52 @@
+{
+  "0": {
+    "name": "Retail",
+    "risk_level": "low",
+    "avg_fraud_rate": 0.021
+  },
+  "1": {
+    "name": "Food & Dining",
+    "risk_level": "low",
+    "avg_fraud_rate": 0.018
+  },
+  "2": {
+    "name": "Travel",
+    "risk_level": "medium",
+    "avg_fraud_rate": 0.052
+  },
+  "3": {
+    "name": "Entertainment",
+    "risk_level": "low",
+    "avg_fraud_rate": 0.024
+  },
+  "4": {
+    "name": "Healthcare",
+    "risk_level": "low",
+    "avg_fraud_rate": 0.015
+  },
+  "5": {
+    "name": "Education",
+    "risk_level": "low",
+    "avg_fraud_rate": 0.011
+  },
+  "6": {
+    "name": "Utilities",
+    "risk_level": "low",
+    "avg_fraud_rate": 0.008
+  },
+  "7": {
+    "name": "Gas",
+    "risk_level": "medium",
+    "avg_fraud_rate": 0.038
+  },
+  "8": {
+    "name": "Jewelry",
+    "risk_level": "high",
+    "avg_fraud_rate": 0.124
+  },
+  "9": {
+    "name": "Crypto Exchange",
+    "risk_level": "critical",
+    "avg_fraud_rate": 0.218
+  }
+}
